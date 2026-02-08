@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "MIR//or",
+  "base_artist": "Ayunda Risu",
+  "createdAt": "2026-02-08T03:53:29.650984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "\"Die Da\" Hat Mir Gut Gefallen",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/01_Die_Da__Hat_Mir_Gut_Gefallen_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "-Die da- hat mir gut gefallen",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/02_-Die_da-_hat_mir_gut_gefallen_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gib Mir Mehr",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/03_Gib_Mir_Mehr_Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Is mir egal",
+      "artist": "Der Tobi & Das Bo",
+      "has_synced": true,
+      "path": "select/04_Is_mir_egal_Der_Tobi_&_Das_Bo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sag Mir Was Du Von Mir Willst",
+      "artist": "Samy Deluxe",
+      "has_synced": false,
+      "path": "select/05_Sag_Mir_Was_Du_Von_Mir_Willst_Samy_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sie hacken auf mir rum",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/06_Sie_hacken_auf_mir_rum_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sie Hacken Auf Mir Rum (featuring Die Ärzte)",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/07_Sie_Hacken_Auf_Mir_Rum_(featuring_Die_Ärzte)_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Willst du mit mir geh'n?",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": true,
+      "path": "select/08_Willst_du_mit_mir_geh'n_Fünf_Sterne_Deluxe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bist Du Bei Mir",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/09_Bist_Du_Bei_Mir_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bist De Bei Mir",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/10_Bist_De_Bei_Mir_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Die Welt Gehört Mir",
+      "artist": "Blümchen",
+      "has_synced": false,
+      "path": "select/11_Die_Welt_Gehört_Mir_Blümchen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Die Welt gehört mir (Kurzer Mix)",
+      "artist": "Blümchen",
+      "has_synced": false,
+      "path": "select/12_Die_Welt_gehört_mir_(Kurzer_Mix)_Blümchen.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gib mir noch Zeit",
+      "artist": "Blümchen",
+      "has_synced": true,
+      "path": "select/13_Gib_mir_noch_Zeit_Blümchen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gib mir noch Zeit (Zeitloser Radio Mix)",
+      "artist": "Blümchen",
+      "has_synced": true,
+      "path": "select/14_Gib_mir_noch_Zeit_(Zeitloser_Radio_Mix)_Blümchen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Komm gib mir deine Hand",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_Komm_gib_mir_deine_Hand_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Komm, Gib Mir Deine Hand",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Komm,_Gib_Mir_Deine_Hand_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Zeig mir wie du tanzt - Skrillex Remix",
+      "artist": "FRIDA GOLD",
+      "has_synced": true,
+      "path": "select/17_Zeig_mir_wie_du_tanzt_-_Skrillex_Remix_FRIDA_GOLD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MIR//or",
+      "artist": "Ayunda Risu",
+      "has_synced": false,
+      "path": "select/pl_01_MIR_or_Ayunda_Risu.txt"
+    }
+  ]
+}
